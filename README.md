@@ -18,9 +18,9 @@ _Creating valuable technological solutions that empower everyday life._
 
 ### Active
 
-🔗 [**PhD Research**](https://github.com/6636345e/project-name) — A Fuzzy Logic-Based Adaptive Framework for Blockchain Storage: Node Scaling, Load Optimisation, and Archival Management
+🔗 [**PhD Research**](https://github.com/6636345e/project-name) - A Fuzzy Logic-Based Adaptive Framework for Blockchain Storage: Node Scaling, Load Optimisation, and Archival Management
 
-🔒 **Pabs-chain** (closed source) — A blockchain-based access traceability for 
+🔒 **Pabs-chain** (closed source) - A blockchain-based access traceability for 
 
 
 
@@ -29,17 +29,17 @@ _Creating valuable technological solutions that empower everyday life._
 
 ☁️ **aws-project-name** — One-line description of your AWS internship project
 
-💧 [**Academic Research (Conference Paper 1)**](https://github.com/6636345e/project-name) — Blockchain-based secure data collection for smart water meters
+💧 [**Academic Research (Conference Paper 1)**](https://github.com/6636345e/project-name) - Blockchain-based secure data collection for smart water meters
 
-🧪 [**Academic Research (Conference Paper 2)**](https://github.com/6636345e/project-name) — Fuzzy logic adaptive storage for Substrate chains
+🧪 [**Academic Research (Conference Paper 2)**](https://github.com/6636345e/project-name) - Fuzzy logic adaptive storage for Substrate chains
 
 ---
 
 
 ### Publications
-1. **Hybrid blockchain-IPFS for smart water meter storage** — IST-Africa 2025, Nairobi · [DOI](https://doi.org/10.23919/IST-Africa67297.2025.11060537)
-2. **Advancing blockchain-enabled IPFS with Substrate** — ETNCC 2024, Windhoek · [DOI](https://doi.org/10.1109/ETNCC63262.2024.10767518)
-3. **Blockchain-based secure data collection for smart water meters** — IST-Africa 2023, Tshwane · [DOI](https://doi.org/10.23919/ISTAfrica60249.2023.10187803)
+1. **Hybrid blockchain-IPFS for smart water meter storage** - IST-Africa 2025, Nairobi · [DOI](https://doi.org/10.23919/IST-Africa67297.2025.11060537)
+2. **Advancing blockchain-enabled IPFS with Substrate** - ETNCC 2024, Windhoek · [DOI](https://doi.org/10.1109/ETNCC63262.2024.10767518)
+3. **Blockchain-based secure data collection for smart water meters** - IST-Africa 2023, Tshwane · [DOI](https://doi.org/10.23919/ISTAfrica60249.2023.10187803)
 
 ---
 
