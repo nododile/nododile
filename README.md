@@ -29,19 +29,13 @@ _Creating valuable technological solutions that empower everyday life._
 
 ☁️ **aws-project-name** — One-line description of your AWS internship project
 
-💧 [**Academic Research (Conference Paper 1)**](https://github.com/6636345e/project-name) - Blockchain-based secure data collection for smart water meters
+💧 [**Academic Research 1 (Published)**](https://ieeexplore.ieee.org/document/10187803) - A Blockchain-based Secure Data Collection Mechanism for Smart Water Meters
 
-🧪 [**Academic Research (Conference Paper 2)**](https://github.com/6636345e/project-name) - Fuzzy logic adaptive storage for Substrate chains
-
----
-
-
-### Publications
-1. **Hybrid blockchain-IPFS for smart water meter storage** - IST-Africa 2025, Nairobi · [DOI](https://doi.org/10.23919/IST-Africa67297.2025.11060537)
-2. **Advancing blockchain-enabled IPFS with Substrate** - ETNCC 2024, Windhoek · [DOI](https://doi.org/10.1109/ETNCC63262.2024.10767518)
-3. **Blockchain-based secure data collection for smart water meters** - IST-Africa 2023, Tshwane · [DOI](https://doi.org/10.23919/ISTAfrica60249.2023.10187803)
+🧪 [**Academic Research 2 (Published)**]() - coming soon
 
 ---
 
-
+## Connect With Me
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nododile)
+[![Twitter](https://img.shields.io/badge/-X/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/6636345e)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/6636345e/)
