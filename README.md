@@ -27,7 +27,7 @@ _Creating valuable technological solutions that empower everyday life._
 ### Legacy
 📄 [**Ossible Platform**](https://github.com/Nodods/ossible-platform) — A mobile app that curates profesional CV with +77% employment success rate
 
-☁️ **aws-project-name** — One-line description of your AWS internship project
+☁️ **aws-project-name** — description coming soon
 
 💧 [**Academic Research 1 (Published)**](https://ieeexplore.ieee.org/document/10187803) - A Blockchain-based Secure Data Collection Mechanism for Smart Water Meters
 
