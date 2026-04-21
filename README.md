@@ -25,7 +25,7 @@ _Creating valuable technological solutions that empower everyday life._
 
 
 ### Legacy
-📄 **Ossible Platform** — A mobile app that curates profesional CV with +77% employment success rate
+📄 [**Ossible Platform**](https://github.com/Nodods/ossible-platform) — A mobile app that curates profesional CV with +77% employment success rate
 
 ☁️ **aws-project-name** — One-line description of your AWS internship project
 
