@@ -4,7 +4,7 @@
 
 _Creating valuable technological solutions that empower everyday life._
 
-> PhD Computer Science Candidate at **[UWC](https://www.uwc.ac.za/)** focusing on distributed systems (Blockchain) & artificial intelligence (Neuro-fuzzy Logic). Previously Software Dev. Engineer at **[AWS](https://aws.amazon.com/)**.
+> PhD Researcher in Computer Science at **[UWC](https://www.uwc.ac.za/)** focusing on distributed systems (Blockchain) & artificial intelligence (Evolving Neuro-fuzzy Logic). Previously Software Dev. Engineer at **[AWS](https://aws.amazon.com/)**.
 
 [![Rust](https://img.shields.io/badge/Rust-000?style=flat&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 [![Substrate](https://img.shields.io/badge/Substrate-282828?style=flat&logo=parity-substrate&logoColor=white)](https://substrate.io/)
