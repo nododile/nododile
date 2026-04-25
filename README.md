@@ -25,15 +25,15 @@ _Creating valuable technological solutions that empower everyday life._
 
 
 ### Legacy
-📄 [**Ossible Platform**](https://github.com/Nodods/ossible-platform) — A mobile app that curates profesional CV with +77% employment success rate
+📱 [**Ossible Platform**](https://github.com/Nodods/ossible-platform) — A mobile app that curates profesional CV with +77% employment success rate
 
 ☁️ **aws-project-name** — description coming soon
 
-📄 [**1st Research Paper(Published)**](https://ieeexplore.ieee.org/document/10187803) - A Blockchain-based Secure Data Collection Mechanism for Smart Water Meters
+📜 [**1st Research Paper(Published)**](https://ieeexplore.ieee.org/document/10187803) - A Blockchain-based Secure Data Collection Mechanism for Smart Water Meters
 
-📄 [**2nd Research Paper (Published)**](https://ieeexplore.ieee.org/document/10767518) - Advancing Blockchain-Enabled InterPlanetary File System with Substrate for Distributed Data Storage
+📜 [**2nd Research Paper (Published)**](https://ieeexplore.ieee.org/document/10767518) - Advancing Blockchain-Enabled InterPlanetary File System with Substrate for Distributed Data Storage
 
-📄 [**3rd Research Paper (Published)**](https://ieeexplore.ieee.org/document/11060537) - A Hybrid Blockchain-IPFS Solution for Secure and Scalable Data Collection and Storage in Smart Water Meters
+📜 [**3rd Research Paper (Published)**](https://ieeexplore.ieee.org/document/11060537) - A Hybrid Blockchain-IPFS Solution for Secure and Scalable Data Collection and Storage in Smart Water Meters
 
 ---
 
