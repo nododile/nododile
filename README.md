@@ -40,4 +40,4 @@ _Creating valuable technological solutions that empower everyday life._
 ## Connect With Me
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nododile)
 [![Twitter](https://img.shields.io/badge/-X/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/nododile_)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/6636345e/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nododile)
