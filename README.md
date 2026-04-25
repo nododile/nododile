@@ -29,9 +29,11 @@ _Creating valuable technological solutions that empower everyday life._
 
 ☁️ **aws-project-name** — description coming soon
 
-💧 [**Academic Research 1 (Published)**](https://ieeexplore.ieee.org/document/10187803) - A Blockchain-based Secure Data Collection Mechanism for Smart Water Meters
+📄 [**1st Research Paper(Published)**](https://ieeexplore.ieee.org/document/10187803) - A Blockchain-based Secure Data Collection Mechanism for Smart Water Meters
 
-🧪 [**Academic Research 2 (Published)**]() - coming soon
+📄 [**2nd Research Paper (Published)**](https://ieeexplore.ieee.org/document/10767518) - Advancing Blockchain-Enabled InterPlanetary File System with Substrate for Distributed Data Storage
+
+📄 [**3rd Research Paper (Published)**](https://ieeexplore.ieee.org/document/11060537) - A Hybrid Blockchain-IPFS Solution for Secure and Scalable Data Collection and Storage in Smart Water Meters
 
 ---
 
