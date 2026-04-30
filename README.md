@@ -18,9 +18,9 @@ _Creating valuable technological solutions that empower everyday life._
 
 ### Active
 
-🔗 [**PhD Research**](https://github.com/6636345e/project-name) - A Fuzzy Logic-Based Adaptive Framework for Blockchain Storage: Node Scaling, Load Optimisation, and Archival Management
+🔗 [**PhD Research**](https://github.com/nododile/fuzzy-blockchain-storage) - A Fuzzy Logic-Based Adaptive Framework for Blockchain Storage: Node Scaling, Load Optimisation, and Archival Management
 
-🔒 **Pabs-chain** (closed source) - A blockchain-based access traceability for 
+🔒 [**Pabs-chain**](https://github.com/nododile/pabs-chain) (closed source) - A blockchain-based access traceability for 
 
 
 
