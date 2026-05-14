@@ -22,7 +22,7 @@ _Creating valuable technological solutions that empower everyday life._
 
 🔗 [**Pluck**](https://github.com/nododile/pluck) - A clean, fast, ad-free downloader for TikTok, YouTube, Instagram, Facebook, and X. No sign-up, no watermarks, no clutter.
 
-🔒 [**Pabs-chain**](https://github.com/nododile/pabs-chain) (closed source) - A blockchain-based access traceability for 
+🔒 [**Pabs-chain**](https://github.com/nododile/pabs-chain) (closed source) - A blockchain-based access traceability for pathogen genetic data access.
 
 
 
