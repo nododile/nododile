@@ -1,7 +1,5 @@
 # Thandile Nododile
 
-**Blockchain Engineer · Entrepreneur**
-
 _Creating valuable technological solutions that empower everyday life._
 
 > PhD Researcher in Computer Science at **[UWC](https://www.uwc.ac.za/)** focusing on distributed systems (Blockchain) & artificial intelligence (Evolving Neuro-fuzzy Logic). Previously Software Dev. Engineer at **[AWS](https://aws.amazon.com/)**.
@@ -18,16 +16,16 @@ _Creating valuable technological solutions that empower everyday life._
 
 ### Active
 
-🔗 [**PhD Research**](https://github.com/nododile/fuzzy-blockchain-storage) - A Fuzzy Logic-Based Adaptive Framework for Blockchain Storage: Node Scaling, Load Optimisation, and Archival Management
+ 🧪 [**PhD Research**](https://github.com/nododile/fuzzy-blockchain-storage) - A Fuzzy Logic-Based Adaptive Framework for Blockchain Storage: Node Scaling, Load Optimisation, and Archival Management
 
-🔗 [**Pluck**](https://github.com/nododile/pluck) - A clean, fast, ad-free downloader for TikTok, YouTube, Instagram, Facebook, and X. No sign-up, no watermarks, no clutter.
+⬇️ [**Pluck**](https://github.com/nododile/pluck) - A clean, fast, ad-free downloader for TikTok, YouTube, Instagram, Facebook, and X. No sign-up, no watermarks, no clutter.
 
-🔒 [**Pabs-chain**](https://github.com/nododile/pabs-chain) (closed source) - A blockchain-based access traceability for pathogen genetic data access.
+🧬 [**Pabs-chain**](https://github.com/nododile/pabs-chain) (closed source) - A blockchain-based access traceability for pathogen genetic data access.
 
 
 
 ### Legacy
-📱 [**Ossible Platform**](https://github.com/Nodods/ossible-platform) — A mobile app that curates profesional CV with +77% employment success rate
+📱 [**Ossible Platform**](https://github.com/Nodods/ossible-platform) — A mobile app that curates professional CV with +77% employment success rate
 
 ☁️ **aws-project-name** — description coming soon
 
