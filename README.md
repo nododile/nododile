@@ -18,6 +18,8 @@ _Creating valuable technological solutions that empower everyday life._
 
  🧪 [**PhD Research**](https://github.com/nododile/fuzzy-blockchain-storage) - A Fuzzy Logic-Based Adaptive Framework for Blockchain Storage: Node Scaling, Load Optimisation, and Archival Management
 
+☁️ [**Farmore**](https://github.com/farmore-network) - An open, chain-neutral protocol for unified crypto identity. One name. One balance. One account.
+
 🧬 [**Pabs-chain**](https://github.com/nododile/pabs-chain) (closed source) - A blockchain-based access traceability for pathogen genetic data access.
 
 ⬇️ [**Pluck**](https://github.com/nododile/pluck) - A clean, fast, ad-free downloader for TikTok, YouTube, Instagram, Facebook, and X. No sign-up, no watermarks, no clutter.
@@ -34,7 +36,7 @@ _Creating valuable technological solutions that empower everyday life._
 
 📜 [**3rd Research Paper (Published)**](https://ieeexplore.ieee.org/document/11060537) - A Hybrid Blockchain-IPFS Solution for Secure and Scalable Data Collection and Storage in Smart Water Meters
 
----
+--
 
 ## Connect With Me
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nododile)
