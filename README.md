@@ -20,7 +20,7 @@ _Creating valuable technological solutions that empower everyday life._
 
 🧬 [**Pabs-chain**](https://github.com/nododile/pabs-chain) (closed source) - A blockchain-based access traceability for pathogen genetic data access.
 
-💱 [**xchange**](https://xchangehq.com) (closed source) - A self-custodial exchange for Gaju, USDC and XGE inside Telegram. Trades settle through on-chain escrow on Gajumaru and Solana; xchange never holds your funds.
+💱 [**xchange**](https://xchangehq.com) (closed source) - A decentralised, self-custodial exchange for Gaju, USDC and XGE inside Telegram. Trades settle through on-chain escrow on Gajumaru and Solana.
 
 ⬇️ [**Pluck**](https://github.com/nododile/pluck) - A clean, fast, ad-free downloader for TikTok, YouTube, Instagram, Facebook, and X. No sign-up, no watermarks, no clutter.
 
