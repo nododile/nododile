@@ -22,10 +22,10 @@ _Creating valuable technological solutions that empower everyday life._
 
 💱 [**xchange**](https://xchangehq.com) (closed source) - A decentralised, self-custodial exchange for Gaju, USDC and XGE inside Telegram. Trades settle through on-chain escrow on Gajumaru and Solana.
 
-⬇️ [**Pluck**](https://github.com/nododile/pluck) - A clean, fast, ad-free downloader for TikTok, YouTube, Instagram, Facebook, and X. No sign-up, no watermarks, no clutter.
-
 
 ### Legacy
+⬇️ [**Pluck**](https://github.com/nododile/pluck) - A clean, fast, ad-free downloader for TikTok, YouTube, Instagram, Facebook, and X. No sign-up, no watermarks, no clutter.
+
 ☁️ [**Farmore**](https://github.com/farmore-network) - An open, chain-neutral protocol for unified crypto identity. One name. One balance. One account.
 
 📱 [**Ossible Platform**](https://github.com/Nodods/ossible-platform) - A mobile app that curates professional CV with +77% employment success rate
