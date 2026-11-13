@@ -20,7 +20,7 @@ _Creating valuable technological solutions that empower everyday life._
 
 🧬 [**Pabs-chain**](https://github.com/nododile/pabs-chain) (closed source) - A blockchain-based access traceability for pathogen genetic data access.
 
-💱 [**xchange**](https://xchangehq.com) (closed source) - A decentralised, self-custodial exchange for Gaju, USDC and XGE inside Telegram. Trades settle through on-chain escrow on Gajumaru and Solana.
+💱 [**xchange**](https://github.com/xchange-hq) (closed source) - A decentralised, self-custodial exchange for Gaju, USDC and XGE inside Telegram. Trades settle through on-chain escrow on Gajumaru and Solana.
 
 
 ### Legacy
